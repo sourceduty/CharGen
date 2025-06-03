@@ -1,6 +1,6 @@
 ![CharGen](https://github.com/user-attachments/assets/cd7e798e-7a22-490b-9b6d-746dcf9f991a)
 
-CharGen, short for *Charge Generation Function, is a dynamic mathematical model that captures the rate at which electric charge accumulates or discharges in a system over time. It is fundamentally expressed by the differential equation:
+CharGen, short for Charge Generation Function, is a dynamic mathematical model that captures the rate at which electric charge accumulates or discharges in a system over time. It is fundamentally expressed by the differential equation:
 
 dQ/dt = I + C * dV/dt
 
