@@ -2,7 +2,7 @@
 
 CharGen, short for *Charge Generation Function, is a dynamic mathematical model that captures the rate at which electric charge accumulates or discharges in a system over time. It is fundamentally expressed by the differential equation:
 
-    dQ/dt = I + C * dV/dt
+dQ/dt = I + C * dV/dt
 
 where Q(t) is the accumulated charge at time t, I is a constant or time-varying current in amperes, C is the capacitance in farads, and V(t) is the instantaneous voltage across the system. The term I represents direct current contributions, while C * dV/dt captures capacitive effects due to voltage changes. This equation is essential for analyzing systems where both current inputs and voltage dynamics influence how charge builds up or is depleted. It forms the foundation for understanding transient behaviors in various types of electrical components, especially where time-varying signals are involved.
 
